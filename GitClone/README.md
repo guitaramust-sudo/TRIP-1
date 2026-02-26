@@ -6,3 +6,4 @@
 "## Branch2 - Change C" 
 "## New clone change 1" 
 "## New clone change 2" 
+"## New clone change 3" 
