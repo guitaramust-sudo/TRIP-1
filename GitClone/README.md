@@ -4,3 +4,4 @@
 "## Branch2 - Change A" 
 "## Branch2 - Change B" 
 "## Branch2 - Change C" 
+"## New clone change 1" 
